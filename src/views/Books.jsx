@@ -346,9 +346,9 @@ function Books() {
           Search
         </button>
       </div>
-      <div className="flex flex-wrap gap-y-5 justify my-6">
+      <div className="flex flex-wrap gap-y-5 justify-start my-6">
         {filterdbooks.map((book) => (
-          <div className="m-10 max-w-sm rounded-lg overflow-hidden shadow-lg border">
+          <div className="w-1/4 mx-auto bg-white rounded-lg shadow-md overflow-hidden">
             <img
               src={book.imageUrl}
               alt="Hilarious book-titles & authors"
