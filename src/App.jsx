@@ -3,24 +3,16 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 import Navbar from './Components/Navbar'
-import Home from './views/Home'
 import Books from './views/Books'
-import Users from './views/Users'
+import BottomNavBar from './views/BottomNavBar'
+
 
 function App() {
-
-
   return (
     <>
-     
-     <Navbar/>
-     {/*<Home/>*/}
-     <Books/>
-     <Users/>
-    
-     
-    
-      
+    <Navbar/>
+    <Books/>
+    <BottomNavBar/>
     </>
   )
 }

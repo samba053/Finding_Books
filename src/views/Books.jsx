@@ -30,7 +30,7 @@ function Books() {
       "publisher_facet": ["Zaphire"],
       "_version_": 1795927570441568257,
       "author_facet": ["OL2666337A Peter Steele"],
-      "imageUrl":"https://computechpublications.in/wp-content/uploads/2018/08/183-1_acc_ENG_FRONT.jpg",
+      "imageUrl": "https://computechpublications.in/wp-content/uploads/2018/08/183-1_acc_ENG_FRONT.jpg",
       "ddc_sort": "828"
     },
     {
@@ -54,7 +54,7 @@ function Books() {
       "title_sort": "A gossip on book-titles",
       "type": "work",
       "_version_": 1795926928197156865,
-      "imageUrl":"https://m.media-amazon.com/images/I/81x8Qt-q1ZL._SY522_.jpg",
+      "imageUrl": "https://m.media-amazon.com/images/I/81x8Qt-q1ZL._SY522_.jpg",
       "author_facet": ["OL2348743A G. Douglas"]
     },
     {
@@ -87,7 +87,7 @@ function Books() {
       "_version_": 1795905810522439680,
       "lcc_sort": "Z--7090.00000000.L366",
       "author_facet": ["OL1291470A Charles Rockwell Lanman"],
-      "imageUrl":"https://www.dummies.com/wp-content/uploads/javascript-essentials-for-dummies-cover-9781394263219.jpg",
+      "imageUrl": "https://www.dummies.com/wp-content/uploads/javascript-essentials-for-dummies-cover-9781394263219.jpg",
       "ddc_sort": "891.3"
     },
     {
@@ -113,8 +113,8 @@ function Books() {
       "_version_": 1795926928197156865,
       "imageUrl": "https://m.media-amazon.com/images/I/51zsuUDj1SL.jpg",
       "author_facet": ["OL2348743A G. Douglas"]
-  },
-  {
+    },
+    {
       "author_key": ["OL1291470A"],
       "author_name": ["Charles Rockwell Lanman"],
       "ddc": ["891.3"],
@@ -146,8 +146,8 @@ function Books() {
       "author_facet": ["OL1291470A Charles Rockwell Lanman"],
       "imageUrl": "https://m.media-amazon.com/images/I/81GXFVTUbVL._SY522_.jpg",
       "ddc_sort": "891.3"
-  },
-  {
+    },
+    {
       "author_key": ["OL5672341A"],
       "author_name": ["John Smith"],
       "ebook_access": "no_ebook",
@@ -169,8 +169,8 @@ function Books() {
       "_version_": 1795926928197156865,
       "imageUrl": "https://m.media-amazon.com/images/I/814qCvkdZSL._SY522_.jpg",
       "author_facet": ["OL5672341A John Smith"]
-  },
-  {
+    },
+    {
       "author_key": ["OL9876543A"],
       "author_name": ["Jane Doe"],
       "ebook_access": "no_ebook",
@@ -192,8 +192,8 @@ function Books() {
       "_version_": 1795926928197156865,
       "imageUrl": "https://m.media-amazon.com/images/I/51HTieS6nkL._SY445_SX342_.jpg",
       "author_facet": ["OL9876543A Jane Doe"]
-  },
-  {
+    },
+    {
       "author_key": ["OL3456789A"],
       "author_name": ["Richard Roe"],
       "ebook_access": "no_ebook",
@@ -215,8 +215,8 @@ function Books() {
       "_version_": 1795926928197156865,
       "imageUrl": "https://m.media-amazon.com/images/I/71YnLRxR5mL._SY522_.jpg",
       "author_facet": ["OL3456789A Richard Roe"]
-  },
-  {
+    },
+    {
       "author_key": ["OL1122334A"],
       "author_name": ["Michael Johnson"],
       "ebook_access": "no_ebook",
@@ -238,8 +238,8 @@ function Books() {
       "_version_": 1795926928197156865,
       "imageUrl": "https://m.media-amazon.com/images/I/51ghvCr7YIL._SX342_SY445_.jpg",
       "author_facet": ["OL1122334A Michael Johnson"]
-  },
-  {
+    },
+    {
       "author_key": ["OL6677889A"],
       "author_name": ["Alice Williams"],
       "ebook_access": "no_ebook",
@@ -261,54 +261,54 @@ function Books() {
       "_version_": 1795926928197156865,
       "imageUrl": "https://m.media-amazon.com/images/I/51eySiDKFJL._SY522_.jpg",
       "author_facet": ["OL6677889A Alice Williams"]
-  },
-  {
-    "author_key": ["OL2348743A"],
-    "author_name": ["G. Douglas"],
-    "ebook_access": "no_ebook",
-    "ebook_count_i": 0,
-    "edition_count": 1,
-    "edition_key": ["OL21467954M"],
-    "first_publish_year": 1922,
-    "has_fulltext": false,
-    "key": "/works/OL7645738W",
-    "language": ["eng"],
-    "last_modified_i": 1260861888,
-    "public_scan_b": false,
-    "publish_date": ["1922"],
-    "publish_year": [1922],
-    "seed": ["/books/OL21467954M", "/works/OL7645738W", "/authors/OL2348743A"],
-    "title": "PHP LEARNING",
-    "title_suggest": "A gossip on book-titles",
-    "title_sort": "A gossip on book-titles",
-    "type": "work",
-    "_version_": 1795926928197156865,
-    "imageUrl": "https://m.media-amazon.com/images/I/71aHDJ3KjoL._SY522_.jpg",
-    "author_facet": ["OL2348743A G. Douglas"]
-},
-{
-    "author_key": ["OL5672341A"],
-    "author_name": ["John Smith"],
-    "ebook_access": "no_ebook",
-    "ebook_count_i": 0,
-    "edition_count": 1,
-    "edition_key": ["OL56723456M"],
-    "first_publish_year": 2015,
-    "has_fulltext": false,
-    "key": "/works/OL10023456W",
-    "language": ["eng"],
-    "last_modified_i": 1452345678,
-    "publish_date": ["2015"],
-    "publish_year": [2015],
-    "seed": ["/books/OL56723456M", "/works/OL10023456W", "/authors/OL5672341A"],
-    "title": "CLOUD/AWS LEARNING",
-    "title_suggest": "Mastering CLOUD",
-    "title_sort": "Mastering CLOUD Programming",
-    "type": "work",
-    "_version_": 1795926928197156865,
-    "imageUrl": "https://m.media-amazon.com/images/I/61sAfdNzvbL._SY522_.jpg",
-    "author_facet": ["OL5672341A John Smith"]
-}
+    },
+    {
+      "author_key": ["OL2348743A"],
+      "author_name": ["G. Douglas"],
+      "ebook_access": "no_ebook",
+      "ebook_count_i": 0,
+      "edition_count": 1,
+      "edition_key": ["OL21467954M"],
+      "first_publish_year": 1922,
+      "has_fulltext": false,
+      "key": "/works/OL7645738W",
+      "language": ["eng"],
+      "last_modified_i": 1260861888,
+      "public_scan_b": false,
+      "publish_date": ["1922"],
+      "publish_year": [1922],
+      "seed": ["/books/OL21467954M", "/works/OL7645738W", "/authors/OL2348743A"],
+      "title": "PHP LEARNING",
+      "title_suggest": "A gossip on book-titles",
+      "title_sort": "A gossip on book-titles",
+      "type": "work",
+      "_version_": 1795926928197156865,
+      "imageUrl": "https://m.media-amazon.com/images/I/71aHDJ3KjoL._SY522_.jpg",
+      "author_facet": ["OL2348743A G. Douglas"]
+    },
+    {
+      "author_key": ["OL5672341A"],
+      "author_name": ["John Smith"],
+      "ebook_access": "no_ebook",
+      "ebook_count_i": 0,
+      "edition_count": 1,
+      "edition_key": ["OL56723456M"],
+      "first_publish_year": 2015,
+      "has_fulltext": false,
+      "key": "/works/OL10023456W",
+      "language": ["eng"],
+      "last_modified_i": 1452345678,
+      "publish_date": ["2015"],
+      "publish_year": [2015],
+      "seed": ["/books/OL56723456M", "/works/OL10023456W", "/authors/OL5672341A"],
+      "title": "CLOUD/AWS LEARNING",
+      "title_suggest": "Mastering CLOUD",
+      "title_sort": "Mastering CLOUD Programming",
+      "type": "work",
+      "_version_": 1795926928197156865,
+      "imageUrl": "https://m.media-amazon.com/images/I/61sAfdNzvbL._SY522_.jpg",
+      "author_facet": ["OL5672341A John Smith"]
+    }
   ]);
   const [filterdbooks, setFilterdBooks] = useState(books);
   const [searchTerm, setSearchTerm] = useState('');
@@ -319,11 +319,19 @@ function Books() {
     const _filterBooks = books.filter(book => book.title.toLowerCase().includes(searchTerm.toLowerCase()));
     setFilterdBooks(_filterBooks);
   }, [searchTerm]);
-return (
+  return (
     <div>
-
-
-
+      
+      <header className="bg-blue-600 text-white py-5">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+          <h1 className="text-4xl sm:text-5xl font-bold mb-4">
+            Welcome to Invitation Books World
+          </h1>
+          <p className="text-lg sm:text-xl mb-6">
+            Discover a world of timeless invitations, memories, and designs for every occasion.
+          </p>
+        </div>
+      </header>
       <div className="my-6 flex justify-center mr-200">
         <input
           type="text"
@@ -338,52 +346,45 @@ return (
           Search
         </button>
       </div>
-
-
-
       <div className="flex flex-wrap gap-y-5 justify my-6">
         {filterdbooks.map((book) => (
-         
-            <div className="m-10 max-w-sm rounded-lg overflow-hidden shadow-lg border">
-              <img
-                src={book.imageUrl}
-                alt="Hilarious book-titles & authors"
-                className="h-64 mx-auto w-80 h-140 h-32 md:h-64 lg:h-96"
-              />
-              <div className="p-4 ">
-                <h1 className="text-2xl font-bold mb-2">{book.title}</h1>
-                <p className="text-lg text-gray-700 mb-1">author_key: <span className="font-semibold">{book.author_key}</span></p>
-                <p className="text-sm text-gray-600 mb-1">ebook_access: <span className="font-medium">{book.ebook_access}</span></p>
-                <p className="text-sm text-gray-600 mb-1">ebook_count_i: <span className="font-medium">{book.ebook_count_i}</span></p>
-                <p className="text-sm text-gray-600 mb-1">edition_count: <span className="font-medium">{book.edition_count}</span></p>
-                <p className="text-sm text-gray-600 mb-1">first_publish_year: <span className="font-medium">{book.first_publish_year}</span></p>
-                <p className="text-sm text-gray-600">has_fulltext: <span className="font-medium">{book.has_fulltext}</span></p>
-                <p className="text-sm text-gray-600 mb-1">isbn: <span className="font-medium">{book.isbn}</span></p>
-                <p className="text-sm text-gray-600 mb-1">key: <span className="font-medium">{book.key}</span></p>
-                <p className="text-sm text-gray-600 mb-1">language: <span className="font-medium">{book.language}</span></p>
-                <p className="text-sm text-gray-600 mb-1">last_modified_i: <span className="font-medium">{book.last_modified_i}</span></p>
-                <p className="text-sm text-gray-600 mb-1">number_of_pages_median: <span className="font-medium">{book.number_of_pages_median}</span></p>
-                <p className="text-sm text-gray-600 mb-1">oclc: <span className="font-medium">{book.number_of_pages_median}</span></p>
-                <p className="text-sm text-gray-600 mb-1">public_scan_b: <span className="font-medium">{book.oclc}</span></p>
-                <p className="text-sm text-gray-600 mb-1">publish_date: <span className="font-medium">{book.publish_date}</span></p>
-                <p className="text-sm text-gray-600 mb-1">publish_place: <span className="font-medium">{book.publish_place}</span></p>
-                <p className="text-sm text-gray-600 mb-1">publish_year: <span className="font-medium">{book.publish_year}</span></p>
-                <p className="text-sm text-gray-600 mb-1">publisher: <span className="font-medium">{book.publisher}</span></p>
-                <p className="text-sm text-gray-600 mb-1">seed: <span className="font-medium">{book.seed}</span></p>
-                <p className="text-sm text-gray-600 mb-1">title: <span className="font-medium">{book.title}</span></p>
-                <p className="text-sm text-gray-600 mb-1">title_suggest: <span className="font-medium">{book.title_suggest}</span></p>
-                <p className="text-sm text-gray-600 mb-1">title_sort: <span className="font-medium">{book.title_sort}</span></p>
-                <p className="text-sm text-gray-600 mb-1">type: <span className="font-medium">{book.type}</span></p>
-                <p className="text-sm text-gray-600 mb-1">publisher_facet: <span className="font-medium">{book.publisher_facet}</span></p>
-                <p className="text-sm text-gray-600 mb-1">_version_: <span className="font-medium">{book._version_}</span></p>
-                <p className="text-sm text-gray-600 mb-1">author_facet: <span className="font-medium">{book.author_facet}</span></p>
-                <p className="text-sm text-gray-600 mb-1"> imageUrl:: <span className="font-medium">{book.imageUrl}</span></p>
-                <p className="text-sm text-gray-600 mb-1">ddc_sort: <span className="font-medium">{book.ddc_sort}</span></p>
-                
-
-              </div>
+          <div className="m-10 max-w-sm rounded-lg overflow-hidden shadow-lg border">
+            <img
+              src={book.imageUrl}
+              alt="Hilarious book-titles & authors"
+              className="h-64 mx-auto w-80 h-140 h-32 md:h-64 lg:h-96"
+            />
+            <div className="p-4 ">
+              <h1 className="text-2xl font-bold mb-2">{book.title}</h1>
+              <p className="text-lg text-gray-700 mb-1">author_key: <span className="font-semibold">{book.author_key}</span></p>
+              <p className="text-sm text-gray-600 mb-1">ebook_access: <span className="font-medium">{book.ebook_access}</span></p>
+              <p className="text-sm text-gray-600 mb-1">ebook_count_i: <span className="font-medium">{book.ebook_count_i}</span></p>
+              <p className="text-sm text-gray-600 mb-1">edition_count: <span className="font-medium">{book.edition_count}</span></p>
+              <p className="text-sm text-gray-600 mb-1">first_publish_year: <span className="font-medium">{book.first_publish_year}</span></p>
+              <p className="text-sm text-gray-600">has_fulltext: <span className="font-medium">{book.has_fulltext}</span></p>
+              <p className="text-sm text-gray-600 mb-1">isbn: <span className="font-medium">{book.isbn}</span></p>
+              <p className="text-sm text-gray-600 mb-1">key: <span className="font-medium">{book.key}</span></p>
+              <p className="text-sm text-gray-600 mb-1">language: <span className="font-medium">{book.language}</span></p>
+              <p className="text-sm text-gray-600 mb-1">last_modified_i: <span className="font-medium">{book.last_modified_i}</span></p>
+              <p className="text-sm text-gray-600 mb-1">number_of_pages_median: <span className="font-medium">{book.number_of_pages_median}</span></p>
+              <p className="text-sm text-gray-600 mb-1">oclc: <span className="font-medium">{book.number_of_pages_median}</span></p>
+              <p className="text-sm text-gray-600 mb-1">public_scan_b: <span className="font-medium">{book.oclc}</span></p>
+              <p className="text-sm text-gray-600 mb-1">publish_date: <span className="font-medium">{book.publish_date}</span></p>
+              <p className="text-sm text-gray-600 mb-1">publish_place: <span className="font-medium">{book.publish_place}</span></p>
+              <p className="text-sm text-gray-600 mb-1">publish_year: <span className="font-medium">{book.publish_year}</span></p>
+              <p className="text-sm text-gray-600 mb-1">publisher: <span className="font-medium">{book.publisher}</span></p>
+              <p className="text-sm text-gray-600 mb-1">seed: <span className="font-medium">{book.seed}</span></p>
+              <p className="text-sm text-gray-600 mb-1">title: <span className="font-medium">{book.title}</span></p>
+              <p className="text-sm text-gray-600 mb-1">title_suggest: <span className="font-medium">{book.title_suggest}</span></p>
+              <p className="text-sm text-gray-600 mb-1">title_sort: <span className="font-medium">{book.title_sort}</span></p>
+              <p className="text-sm text-gray-600 mb-1">type: <span className="font-medium">{book.type}</span></p>
+              <p className="text-sm text-gray-600 mb-1">publisher_facet: <span className="font-medium">{book.publisher_facet}</span></p>
+              <p className="text-sm text-gray-600 mb-1">_version_: <span className="font-medium">{book._version_}</span></p>
+              <p className="text-sm text-gray-600 mb-1">author_facet: <span className="font-medium">{book.author_facet}</span></p>
+              <p className="text-sm text-gray-600 mb-1"> imageUrl:: <span className="font-medium">{book.imageUrl}</span></p>
+              <p className="text-sm text-gray-600 mb-1">ddc_sort: <span className="font-medium">{book.ddc_sort}</span></p>
             </div>
-         
+          </div>
         ))}
       </div>
     </div>
